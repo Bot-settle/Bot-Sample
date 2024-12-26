@@ -40,8 +40,8 @@
 
 <ul>
 <li><strong>Description:</strong>Fully Functional SaaS GPT that provides humanized context Aware Translations.</li>
-<li><strong>Tech Stack:</strong> Javascript, HTML, CSS</li>
-<li><strong>Key Features:</strong> [e.g., Predictive analytics, custom algorithms]</li>
+<li><strong>Tech Stack:</strong> Javascript | HTML | CSS</li>
+<li><strong>Key Features:</strong> Translation.</li>
 </ul>
 
 <hr />
