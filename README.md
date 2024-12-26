@@ -40,7 +40,7 @@
 
 <ul>
 <li><strong>Description:</strong> A machine learning model for [describe purpose].</li>
-<li><strong>Tech Stack:</strong> [e.g., Python, TensorFlow, Pandas]</li>
+<li><strong>Tech Stack:</strong> Javascript, HTML, CSS</li>
 <li><strong>Key Features:</strong> [e.g., Predictive analytics, custom algorithms]</li>
 </ul>
 
