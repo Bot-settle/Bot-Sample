@@ -39,7 +39,7 @@
 <h3><a href="https://github.com/RyanL2004/AI-Translation-SaaS">GPT Translation SaaS 🤖</a></h3>
 
 <ul>
-<li><strong>Description:</strong> A machine learning model for [describe purpose].</li>
+<li><strong>Description:</strong>Fully Functional SaaS GPT that provides humanized context Aware Translations.</li>
 <li><strong>Tech Stack:</strong> Javascript, HTML, CSS</li>
 <li><strong>Key Features:</strong> [e.g., Predictive analytics, custom algorithms]</li>
 </ul>
